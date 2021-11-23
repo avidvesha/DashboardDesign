@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Dashboard</string>
+    <string name="music">music</string>
+    <string name="visuals">visuals</string>
+    <string name="creatives">creatives</string>
+    <string name="contact">contact</string>
+    <string name="dpr">dpr</string>
+</resources>
